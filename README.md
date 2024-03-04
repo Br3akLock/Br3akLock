@@ -3,7 +3,7 @@
 - 📜 Web Development Study.
 - 😀 Currently studying HTML5 & CSS3.
 - 🤔 I like issues involving Cybersecurity
-- 💬 Discord contact: &lt;/Cyber&gt;#9365
+- 💬 Discord contact: cyberzin19
  
  ##
  
