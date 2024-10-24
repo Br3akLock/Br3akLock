@@ -1,7 +1,6 @@
 ### hello, i'm Br3akLock
 
-- 📜 Web Development Study.
-- 😀 Currently studying HTML5 & CSS3.
+- 📜 Web Development.
 - 🤔 I like issues involving Cybersecurity
 - 💬 Discord contact: cyberzin19
  
