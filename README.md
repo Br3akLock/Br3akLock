@@ -1,5 +1,4 @@
 ### hello, i'm Br3akLock
-```Web Developer```
 
 - 📜 Web Development Study.
 - 😀 Currently studying HTML5 & CSS3.
