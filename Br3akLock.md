@@ -6,9 +6,11 @@ I enjoy learning new technologies, taking on challenges, and creating interfaces
 
 
 
+<!--
 - 📜 Web Development.
 - 🤔 I like issues involving Cybersecurity
 - 💬 Discord contact: cyberzin19
+-->
  
  ##
  
